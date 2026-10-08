@@ -37,3 +37,40 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* Judith custom colors */
+
+a {
+  color: #3f5f45;
+}
+
+a:hover {
+  color: #c96a32;
+}
+
+.archive__item-title a {
+  color: #3f5f45;
+}
+
+.archive__item-title a:hover {
+  color: #c96a32;
+}
+
+body {
+  color: #2e2e2e;
+  font-size: 18px;
+}
+
+/* Publication titles */
+.archive__item-title {
+  font-size: 1.2em;
+}
+
+/* Navigation bar */
+.masthead a {
+  color: #3f5f45;
+}
+
+.masthead a:hover {
+  color: #c96a32;
+}
